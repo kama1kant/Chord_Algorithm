@@ -1,0 +1,1 @@
+This Algorithm provides an efficient way to search the node where particular data is present within the shortest path in a specific network. It is also used to balance the load between many computers instead of a central server to ensure availability of a data.
